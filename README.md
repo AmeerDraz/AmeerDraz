@@ -7,7 +7,8 @@ A passionate frontend developer familiar with backend from Palestine
 
 ## 🔭 I’m currently working on  
 - [Forever-E-Commerce](https://github.com/AmeerDraz/Forever-E-Commerce)  
-- [RIAYA-Project](https://github.com/AmeerDraz/RIAYA-Project)  
+- [RIAYA-Project](https://github.com/AmeerDraz/RIAYA-Project)
+- [Expense-Tracker](https://github.com/AmeerDraz/Expense-Tracker)
 
 ## 🌱 I’m currently learning  
 - Redux Toolkit  
