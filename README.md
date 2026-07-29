@@ -338,57 +338,6 @@ I use AI-assisted development tools to improve productivity, explore solutions, 
 
 ---
 
-## 📚 Earlier Learning Projects
-
-These projects represent important stages in my software development journey.
-
-<p>
-  <a href="https://github.com/AmeerDraz/Forever-E-Commerce">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmeerDraz&repo=Forever-E-Commerce&theme=github_dark&hide_border=true" alt="Forever E-Commerce"/>
-  </a>
-  <a href="https://github.com/AmeerDraz/RIAYA-Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmeerDraz&repo=RIAYA-Project&theme=github_dark&hide_border=true" alt="RIAYA Project"/>
-  </a>
-</p>
-
-<p>
-  <a href="https://github.com/AmeerDraz/Expense-Tracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmeerDraz&repo=Expense-Tracker&theme=github_dark&hide_border=true" alt="Expense Tracker"/>
-  </a>
-</p>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AmeerDraz&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="Ameer GitHub statistics"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmeerDraz&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Ameer most used languages"/>
-
-</div>
-
-<div align="center">
-
-<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=AmeerDraz&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"/>
-
-</div>
-
----
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/AmeerDraz/AmeerDraz/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
-
-</div>
-
-> The contribution animation requires a GitHub Actions workflow. It can be removed until the workflow is configured.
-
----
-
 ## 🎓 Education
 
 **Bachelor of Software Engineering**  
