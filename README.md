@@ -19,7 +19,13 @@
   <a href="https://wa.me/972597661558">
     <img src="https://img.shields.io/badge/WhatsApp-Message%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
+
+  <a href="https://drive.google.com/file/d/1R04XIk6vu5LG_TPtuIBBmc7WOnzaVRDU/view?usp=sharing">
+  <img src="https://img.shields.io/badge/Download-Resume-2563EB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
+</a>
+
 </p>
+
 
 </div>
 
@@ -368,6 +374,12 @@ I continue expanding my technical knowledge through self-learning, production wo
   </a>
 </p>
 
+<p>
+  <a href="https://drive.google.com/file/d/1R04XIk6vu5LG_TPtuIBBmc7WOnzaVRDU/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-View%20CV-2563EB?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
+  </a>
+</p>
+
 ---
 
 <div align="center">
@@ -377,7 +389,5 @@ I continue expanding my technical knowledge through self-learning, production wo
 I enjoy transforming complex business requirements into responsive, maintainable, and user-focused web applications.
 
 <br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=AmeerDraz&style=for-the-badge&color=0ea5e9)
 
 </div>
