@@ -284,12 +284,11 @@ More production projects and detailed case studies will be added as they become 
 ## ⚙️ Backend & Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma,mongodb,supabase,firebase,mysql,postgres" alt="Backend and database technologies"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb,supabase,firebase,mysql,postgres" alt="Backend and database technologies"/>
 </p>
 
 - Node.js
 - Express.js
-- Nest.js
 - Prisma ORM
 - MongoDB
 - PostgreSQL
