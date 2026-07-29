@@ -178,6 +178,67 @@ A customer-facing platform redesigned and modernized using Laravel Blade while p
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📢 SMM Gaza
+
+**Social Media Services Platform**
+
+A customer-facing social media services platform with a responsive interface built on an existing Laravel application.
+
+**My Contribution**
+
+- Redesigned and improved the customer-facing interfaces
+- Implemented the updated UI using Laravel Blade
+- Improved responsiveness across desktop and mobile devices
+- Refined existing frontend components and page layouts
+- Integrated the redesigned interfaces with the existing Laravel application
+
+**Tech Stack**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,html,css,js,bootstrap" alt="SMM Gaza technologies"/>
+</p>
+
+<p>
+  <a href="https://smmgaza.com/">
+    <img src="https://img.shields.io/badge/Visit%20Website-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit SMM Gaza"/>
+  </a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🚀 More Projects Coming Soon
+
+**Additional Production Work**
+
+More production projects and detailed case studies will be added as they become available.
+
+**Focus Areas**
+
+- Frontend development
+- Responsive interfaces
+- API integration
+- CMS-driven applications
+- Performance optimization
+
+**Tech Stack**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind" alt="Additional project technologies"/>
+</p>
+
+<p>
+  <a href="https://github.com/AmeerDraz">
+    <img src="https://img.shields.io/badge/View%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub"/>
+  </a>
+</p>
+
+</td>
+</tr>
 </table>
 
 ---
